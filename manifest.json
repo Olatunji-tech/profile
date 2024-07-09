@@ -1,1 +1,15 @@
 
+{
+    "name": "Olatunji Tech Mobile App",
+    "short_name": "Olatunji Tech",
+    "description": "Mobile Apps, Software, Web Developer",
+    "start_url": "/",
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "icons": [
+        {   "src": "./icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }]
+  }
